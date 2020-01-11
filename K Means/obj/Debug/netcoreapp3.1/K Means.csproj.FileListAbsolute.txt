@@ -1,0 +1,11 @@
+F:\C_sharp\K Means\bin\Debug\netcoreapp3.1\K Means.exe
+F:\C_sharp\K Means\bin\Debug\netcoreapp3.1\K Means.deps.json
+F:\C_sharp\K Means\bin\Debug\netcoreapp3.1\K Means.runtimeconfig.json
+F:\C_sharp\K Means\bin\Debug\netcoreapp3.1\K Means.runtimeconfig.dev.json
+F:\C_sharp\K Means\bin\Debug\netcoreapp3.1\K Means.dll
+F:\C_sharp\K Means\bin\Debug\netcoreapp3.1\K Means.pdb
+F:\C_sharp\K Means\obj\Debug\netcoreapp3.1\K Means.csprojAssemblyReference.cache
+F:\C_sharp\K Means\obj\Debug\netcoreapp3.1\K Means.AssemblyInfoInputs.cache
+F:\C_sharp\K Means\obj\Debug\netcoreapp3.1\K Means.AssemblyInfo.cs
+F:\C_sharp\K Means\obj\Debug\netcoreapp3.1\K Means.dll
+F:\C_sharp\K Means\obj\Debug\netcoreapp3.1\K Means.pdb
